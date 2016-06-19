@@ -1,0 +1,71 @@
+
+
+nav.topnav{
+		margin-left: 136px;
+		width: 1080px;
+		background-color:purple;
+
+}
+
+a.navbar-brand{
+	margin-bottom: 35px;
+
+}
+
+div.container{
+	display: flex;
+	justify-content: center;
+	background-color: orange;
+	height: 550px;
+	width: 1080px;
+
+}
+
+div.well{
+		display:flex;
+		justify-content: center;
+		height:470px;
+		width:890px ;
+		background-color: whitesmoke;
+		margin-top: 50px ;
+
+}
+
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      height: 450px;
+  }
+
+section.container {
+		display: flex;
+		justify-content: center;
+		height:750px;
+		width:1080px;
+		background-image: none;
+		background-color: olive;
+		margin-top: 15px;
+
+
+}
+
+	
+}
+
+div.col-md-3{
+		margin-left: 150px;
+		height: 450px;
+		width: 650px;
+
+}
+div.col-md-3 img{
+	height:150px ;
+	width:150px ;
+	margin-top: 175px;
+
+}
+
+
+@media screen and (max-width: 1280px)
+

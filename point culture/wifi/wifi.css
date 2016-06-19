@@ -1,0 +1,148 @@
+body{
+
+	margin: 0 auto;
+	height:100%;
+	width: 100%;
+	background-color:black;
+}
+
+div.nav_bar{
+	height:120px;
+	width: 100%;
+	background-color: gray;
+	margin: 0 auto;
+
+}
+
+div.Menu img{
+	clear: left;
+	float: left;
+	height:80px;
+	width: 80px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+div.Menu a, {
+	float: left;
+	display:flex;
+	flex-direction: row-reverse; ;
+	color: yellow;
+	font-family: Play;
+	padding-right: 50px;
+	margin-top: 20px;
+}
+
+
+div.container{
+	height:100%;
+	width:890px;
+	margin-left: 100px;
+}
+/* bloc 1*/
+div.block1{
+	height: 1532px;
+	width: 100%;
+	font-family: Play;
+	margin-left: -20px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 15px;
+	background-color: whitesmoke;
+
+}
+
+div.block1 img{
+	float:left;
+	height:120px;
+	width:140px;
+	margin-left: 25px;
+}
+
+div.block1 h1{
+	float:left;
+}
+
+div.block1 p{
+	font-size: 25px;
+	display: inline-block;
+	color: blue;
+}
+/* bloc 2*/
+div.block2{
+	height: 700px;
+	width: 100%;
+	font-family: Play;
+	margin-left: -20px;
+	margin-top: 15px;
+	margin-bottom: 150px;
+	font-size: 15px;
+	background-color: whitesmoke;
+}
+
+div.block2 img{
+	float:left;
+	height:120px;
+	width:140px;
+	margin-left: 25px;
+	}
+
+div.block2 h2{
+	float:left;
+}
+
+div.block2 p{
+	font-size: 25px;
+	display: inline-block;
+	color: blue;
+}
+/* bloc 3*/
+div.block3{
+	height: 700px;
+	width: 100%;
+	font-family: Play;
+	margin-left: -20px;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	font-size: 15px;
+	background-color: whitesmoke;
+}
+
+div.block3 img{
+	float:left;
+	height:120px;
+	width:140px;
+	margin-left: 25px;
+	}
+
+div.block3 h2{
+	float:left;
+}
+
+div.block3 p{
+	font-size: 25px;
+	display: inline-block;
+	color: blue;
+}
+
+div.footer{
+	height: 300px;
+	width: 890px;
+	margin-top: 270%;
+	margin-left: 80px;
+	background-color: #FF0;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+div.nintendo{
+	font-family: "Play";
+	font-size: 12px;
+	color: #FC0000;
+	margin: 100px 317px 94px 310px;
+	box-shadow: -2px 1px 1px 11px;
+	border-radius: 100px;
+	padding: 1px 1px 1px 65px;
+	background-color: #F5F5F5;
+}

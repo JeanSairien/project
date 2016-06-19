@@ -1,0 +1,61 @@
+body{
+	display: block;
+	justify-content: center;
+	background-color: whitesmoke;
+	margin: 0 auto;
+}
+
+
+div.container-fluid {
+		height:2000px;
+		width:890px;
+		background-color: red;
+		margin-bottom:150px;
+}
+div.jumbotron h1, h2, p{
+
+	display: flex;
+	justify-content: center;
+		
+}
+
+div.jumbotron img {
+		display: flex;
+		justify-content: flex-end;
+		margin-left: 180px;
+
+
+
+}
+
+.well{
+	max-width: 890px;
+	margin-top:300px;
+	display: block;
+	justify-content: center;
+	
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 245px;
+      height:245px;
+      margin:0 auto;
+  }
+
+
+div.jumbotron {
+
+		height: 400px;
+		color: gray;
+}
+
+	
+}
+
+div.col-sm-4{
+
+		display: flex;
+		flex-wrap: wrap;
+
+
+}
